@@ -1,0 +1,3 @@
+patronId,name,address,overdueFine
+2345678,Alice Brown,55 Pine Ave,0.0
+3456789,Kevin Amin,100 Palm Dr,100.0
